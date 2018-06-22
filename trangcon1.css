@@ -1,0 +1,172 @@
+@charset "utf-8";
+/* CSS Document */
+{ margin:0px; padding: 0px; font-family: Arial, Helvetica, sans-serif;}
+#header{
+	width:100%;
+	height:150px;
+	background:#FFF;
+
+	}
+	#the{ margin:auto}
+#heade{
+	width:1024px;
+	height:150px;
+	background:#FFF;
+	margin:auto;}
+#logo{
+	width:400px;
+	height:150px;
+	float:left;}
+#home{
+	width:624px;
+	height:150px;
+	float:left;
+	}
+#main{
+	width:100%;
+	height:1560px;
+	background:#FFF;
+	}
+#mainer{
+	width:1024px;
+	height:1900px;
+	background:#FFF;
+	margin:auto;
+}
+#footer{
+	width:100%;
+	height:150px;
+	background:#CCC;
+	}
+	
+#foot{
+	width:1024px;
+	height:150px;
+	background:#CCC;
+	margin:auto;}
+
+	
+#nav li{
+  color:#600;
+  display: inline-block;
+  width: 120px;
+  height: 40px;
+  line-height: 40px;
+  
+  margin: auto;
+  font-size:18px;
+  
+}
+#nav ul{
+	
+	margin:auto;
+	margin-top:100px;
+
+	
+}
+#nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+}
+#nav a:hover {
+  background:#060;
+  color:#FFF;
+}
+#nav ul li a{
+	color:#600;}
+#dathang{
+	width:1024px;
+	height:50px;
+	background:#FFF;
+	color:#600;
+	
+}
+#dathang a{
+	
+	margin-top:40px;
+	font-size:34px;
+	margin-bottom:10px;
+	
+	
+	}
+#dathang li {
+	margin-left:450px;
+	}
+#dathang a:hover{
+	background:#060;
+	color:#FFF;
+	text-decoration:none;}
+#tintuc{
+	width:1024px;
+	height:600px;
+	float:inherit;
+	background:#F00;
+	margin-bottom:600px;}
+#trai{
+	width:1024px;
+	height:600px;
+	float:left;
+	background:#FFF;
+	margin:auto;}
+#left{
+	background:#FFF;
+	float: left;
+	width:512px;
+	height:600px;}
+#right{
+	background:#FFF;
+	float: left;
+	width:512px;
+	height:600px;}
+#link1 {
+	text-decoration:none;}
+a: hover{
+	background:#060;
+	color:#303;
+	text-decoration:none;}
+	
+h1{
+	margin-left:100px;
+	color:#600;
+	font-size:24px;}
+#doan1{
+	margin-left:30px;
+	text-align: inherit;
+	}
+#doan2{
+	margin-left:30px;
+	text-align: inherit;}
+	}
+#s1{
+	border:#000 solid 0px;
+	width:80px;
+	height:40px;
+	border-radius:2px;
+	margin-right:100px;}	
+#trai1{
+	width:300px;
+	height:400px;
+	background:#FFF;
+	float:left;}
+#giua1{
+	width:300px;
+	height:400px;
+	background:#FFF;
+	float:left;
+	margin-left:5px;
+	margin-right:5px;}
+#tradao{
+	text-align:center;
+	font-size:18px;
+	color:#060;}
+h2{
+	text-align:center;
+	font-size:36px;
+	color:#060;}
+#li{
+	color:#000;
+	height:
+	
+	}
+
